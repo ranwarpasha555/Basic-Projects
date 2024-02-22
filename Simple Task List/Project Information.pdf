@@ -1,0 +1,40 @@
+#This Project Is Used For to_do_list Application......(file : to_do_list.py)
+    A to-do list is a list of tasks that need to be completed or things,
+    that want to be done. To-do lists can be written on paper or using task management software.
+    They can include tasks for personal or professional life, such as replying to an email or creating a project brief.
+
+#Requirements Of the Project........
+    
+    1--> Using Python :
+        Python is a general-purpose programming language that is used for web development, software development, machine learning, and data science.
+         It is an interpreted language, which means that it does not need to be compiled before it can be run.
+         This makes it a good choice for beginners because it is easy to learn and use.
+
+    2--> using Thinker Library(graphical interface):
+        Tkinter is a graphical user interface (GUI) library for Python scripts.
+         It's the most commonly used method for creating GUIs in Python.
+         Tkinter is open source and portable. It's included in all standard Python distributions and is Python's only built-in framework.
+          Tkinter is known for its simplicity and graphical user interface.
+
+    3--> Excel Sheet.(file :  task.csv).
+    
+    4-->Different Functions.
+        ... ADD Functions :
+                  This used to add the task in to the application.
+
+        ... Delete Function :
+                  this used to delete the task from the to do list by selecting the task.
+
+        ... Save Function : 
+                    This used to save the function, so that it can be esily save in the Excel sheet.
+
+        ... Load functions :
+                    This used to load the list of task after saving the list of task from the used ,else it cant be load after that,
+                    so  we can seee the save list tasks.
+
+# Testing the code :
+    In this we tested the code , with for different functions as shown above.
+    In this it contains four(4) functions ,which contains the different process.
+    
+
+
